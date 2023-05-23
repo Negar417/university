@@ -5767,11 +5767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ne-hosseini\\source\\repos\\UniversityNG\\UniversityNG\\UniversityNG\\UniversityNG.csproj",
+      "projectUniqueName": "F:\\Repo\\University\\UniversityNG\\UniversityNG.csproj",
       "projectName": "UniversityNG",
-      "projectPath": "C:\\Users\\ne-hosseini\\source\\repos\\UniversityNG\\UniversityNG\\UniversityNG\\UniversityNG.csproj",
+      "projectPath": "F:\\Repo\\University\\UniversityNG\\UniversityNG.csproj",
       "packagesPath": "C:\\Users\\ne-hosseini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ne-hosseini\\source\\repos\\UniversityNG\\UniversityNG\\UniversityNG\\obj\\",
+      "outputPath": "F:\\Repo\\University\\UniversityNG\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

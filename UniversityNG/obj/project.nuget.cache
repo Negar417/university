@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pzKzwORhY6dRQyATnUUrhX1q/1MP4LpgOqT1/C9NraglMPfLQbHyqCTjls0nBNZPhC30j4S/ua/1yhMZTB5iAA==",
+  "dgSpecHash": "dZ3Hbs0Iloj9aaXi8KWydwseosV1ixJiDfCpcDoTA0BAt2JLvCkvIFW2n6hp+URTKekDYeXsoOUE7kyVMOKryg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ne-hosseini\\source\\repos\\UniversityNG\\UniversityNG\\UniversityNG\\UniversityNG.csproj",
+  "projectFilePath": "F:\\Repo\\University\\UniversityNG\\UniversityNG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ne-hosseini\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ne-hosseini\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
