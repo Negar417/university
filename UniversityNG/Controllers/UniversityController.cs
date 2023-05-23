@@ -12,6 +12,7 @@ namespace UniversityNG.Controllers
 {
     [Route("[controller]")]
     [ApiController]
+    //university
     public class UniversityController : ControllerBase
     {
         private readonly DataContext _context;
